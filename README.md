@@ -205,7 +205,7 @@ Special thanks to:
 ## Check my code 👁️
 Below is the link to check my app
 
-  [Project demo](https://advancehousepricepredict-2025.streamlit.app/) 🚀
+  [Project demo](https://advancehousepriceprediction-2025.streamlit.app/) 🚀
 
 ---
 ## Happy coding! 💻
