@@ -19,10 +19,10 @@ This list tells users what they can expect from the app.
 
 ## Screenshots 🖼️
 
-![img alt](https://github.com/vinutmaradur/Advance_house_price_predict/blob/main/hp%201.png?raw=true)
-![img alt](https://github.com/vinutmaradur/Advance_house_price_predict/blob/main/hp%202.png?raw=true)
-![img alt](https://github.com/vinutmaradur/Advance_house_price_predict/blob/main/hp%203.png?raw=true)
-![img alt](https://github.com/vinutmaradur/Advance_house_price_predict/blob/main/hp%204.png?raw=true)
+![img alt](https://github.com/vinutmaradur/Data_science-Advance_house_Price_Prediction/blob/main/hp%201.png)
+![img alt](https://github.com/vinutmaradur/Data_science-Advance_house_Price_Prediction/blob/main/hp%202.png)
+![img alt](https://github.com/vinutmaradur/Data_science-Advance_house_Price_Prediction/blob/main/hp%203.png)
+![img alt](https://github.com/vinutmaradur/Data_science-Advance_house_Price_Prediction/blob/main/hp%204.png)
 
 ---
 
