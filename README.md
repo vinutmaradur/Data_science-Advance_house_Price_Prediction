@@ -211,3 +211,9 @@ Below is the link to check my app
 ## Happy coding! 💻
 
 Let me know if you’d like to customize any sections further!
+
+---
+
+**👨‍💻 Author** </br>
+Vinut Maradur </br>
+MCA (Data Science) Graduate | Data Analyst | Data Science Enthusiast
